@@ -3,7 +3,7 @@
 
 // Header Files
 #include <stdio.h>
-#include <math.h> // for Trigonometric, Logarithmic and Exponential function
+#include <math.h> // for Trigonometric, Logarithmic and Exponential functions.
 #define PI 3.141592654
 
 // Global variables to hold Results
