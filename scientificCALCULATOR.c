@@ -1,7 +1,6 @@
 // Scientific Calculator Program (in C)
 
 
-// Header Files
 #include <stdio.h>
 #include <math.h> // for Trigonometric, Logarithmic and Exponential functions.
 #define PI 3.141592654
